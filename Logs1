@@ -1,20 +1,19 @@
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ed7d63bd2c4e87eb",
-        "key": "890",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-]
+{
+    "id": "97a43813014164ee",
+    "key": "800100042",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "ce32fb187c2adb76",
+    "key": "12345",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "5e5cdd31f187928f",
+    "key": "12345",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  ]
